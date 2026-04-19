@@ -1021,7 +1021,7 @@ Transform:
   m_GameObject: {fileID: 445708112}
   serializedVersion: 2
   m_LocalRotation: {x: 0.08958339, y: 0.99597937, z: -0.0000000053395848, w: 0.000000059364982}
-  m_LocalPosition: {x: -0.060068607, y: 0.70415634, z: -0.001}
+  m_LocalPosition: {x: -0.060068607, y: 0.70415634, z: -0.1856178}
   m_LocalScale: {x: 1.2709839, y: 1.2709839, z: 1.2709837}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1067,7 +1067,7 @@ Light:
   serializedVersion: 12
   m_Type: 2
   m_Color: {r: 0.9528302, g: 0.75167125, b: 0.4449537, a: 1}
-  m_Intensity: 3
+  m_Intensity: 5
   m_Range: 4
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -1109,7 +1109,7 @@ Light:
   m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 3
+  m_BounceIntensity: 5
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
@@ -4158,7 +4158,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4011077083501845521, guid: 5fe6194b562581343b266bb252a5bf9a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.731
+      value: 1.765
       objectReference: {fileID: 0}
     - target: {fileID: 4011077083501845521, guid: 5fe6194b562581343b266bb252a5bf9a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4190,7 +4190,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4387040363242981035, guid: 5fe6194b562581343b266bb252a5bf9a, type: 3}
       propertyPath: m_Name
-      value: AntorchaCocina
+      value: Torch Holder (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4572,7 +4572,7 @@ Transform:
   m_GameObject: {fileID: 1571216601}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.4, y: 0.4177029, z: 0.13}
+  m_LocalPosition: {x: -0.32661304, y: 0.4177029, z: -0.4629961}
   m_LocalScale: {x: 5.0325637, y: 5.032565, z: 5.032563}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4618,8 +4618,8 @@ Light:
   serializedVersion: 12
   m_Type: 2
   m_Color: {r: 1, g: 0.6121334, b: 0.2688679, a: 1}
-  m_Intensity: 3
-  m_Range: 0.89158285
+  m_Intensity: 1
+  m_Range: 1.201828
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize2D: {x: 0.5, y: 0.5}
@@ -4660,7 +4660,7 @@ Light:
   m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 3
+  m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
@@ -4702,15 +4702,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6574322205488557683, guid: c1946141e8ac2ec40b89884621659278, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.19
+      value: 2.801
       objectReference: {fileID: 0}
     - target: {fileID: 6574322205488557683, guid: c1946141e8ac2ec40b89884621659278, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.535
+      value: 1.677
       objectReference: {fileID: 0}
     - target: {fileID: 6574322205488557683, guid: c1946141e8ac2ec40b89884621659278, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.21
+      value: 0.121
       objectReference: {fileID: 0}
     - target: {fileID: 6574322205488557683, guid: c1946141e8ac2ec40b89884621659278, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4841,7 +4841,7 @@ Transform:
   m_GameObject: {fileID: 1594660481}
   serializedVersion: 2
   m_LocalRotation: {x: 0.08958339, y: 0.99597937, z: -0.0000000053395848, w: 0.000000059364982}
-  m_LocalPosition: {x: -0.060068607, y: 0.70415634, z: -0.026}
+  m_LocalPosition: {x: -0.060068607, y: 0.70415634, z: -0.1856178}
   m_LocalScale: {x: 1.2709839, y: 1.2709839, z: 1.2709837}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4887,7 +4887,7 @@ Light:
   serializedVersion: 12
   m_Type: 2
   m_Color: {r: 0.9528302, g: 0.75167125, b: 0.4449537, a: 1}
-  m_Intensity: 2
+  m_Intensity: 5
   m_Range: 4
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -4929,7 +4929,7 @@ Light:
   m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 2
+  m_BounceIntensity: 5
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
@@ -6468,7 +6468,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4387040363242981035, guid: 5fe6194b562581343b266bb252a5bf9a, type: 3}
       propertyPath: m_Name
-      value: AntorchaCocina
+      value: Torch Holder (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
